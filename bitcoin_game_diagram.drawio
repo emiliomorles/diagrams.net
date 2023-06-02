@@ -1,11 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T16:53:33.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bDJ1EeSCXPCAHfEkviVn" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T17:03:51.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qdXhzfPgMfizuCZCTd2A" version="21.3.5" type="github">
   <diagram name="Page-1" id="M2o_wBl9OTKpIHn7ixOW">
     <mxGraphModel dx="1672" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkhgI5dMfUAVZijfdKXg-1" target="SkhgI5dMfUAVZijfdKXg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SkhgI5dMfUAVZijfdKXg-1" value="Welcome to bitcoin treasure jungle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="30" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkhgI5dMfUAVZijfdKXg-2" target="SkhgI5dMfUAVZijfdKXg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkhgI5dMfUAVZijfdKXg-2" target="SkhgI5dMfUAVZijfdKXg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-2" value="Left or Right?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-4" value="You Died" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkhgI5dMfUAVZijfdKXg-6" target="SkhgI5dMfUAVZijfdKXg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkhgI5dMfUAVZijfdKXg-6" target="SkhgI5dMfUAVZijfdKXg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-6" value="Swim or jump?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-8" value="You died" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkhgI5dMfUAVZijfdKXg-10" target="SkhgI5dMfUAVZijfdKXg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SkhgI5dMfUAVZijfdKXg-10" target="SkhgI5dMfUAVZijfdKXg-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SkhgI5dMfUAVZijfdKXg-10" target="SkhgI5dMfUAVZijfdKXg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SkhgI5dMfUAVZijfdKXg-10" target="SkhgI5dMfUAVZijfdKXg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-10" value="Which door?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-12" value="You Died" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-14" value="You Died" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="450" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-16" value="You Died" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="580" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhgI5dMfUAVZijfdKXg-19" value="You win!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="580" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
