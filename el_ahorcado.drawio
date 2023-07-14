@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T13:09:42.761Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0" version="21.6.2" etag="hSmMQSLRAHgj2Zo1nUQb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T13:18:23.336Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0" etag="W06UHzrG21zGtRH4L0J9" version="21.6.2" type="github">
   <diagram name="Página-1" id="OHfnPg6nIuEYZed1UYO_">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1MxKTXa6I1H9u6osK8T-1" target="A1MxKTXa6I1H9u6osK8T-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-1" value="random word" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1MxKTXa6I1H9u6osK8T-2" target="A1MxKTXa6I1H9u6osK8T-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1MxKTXa6I1H9u6osK8T-2" target="A1MxKTXa6I1H9u6osK8T-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-2" value="&lt;div&gt;input letter&lt;/div&gt;&lt;div&gt;from the word&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1MxKTXa6I1H9u6osK8T-6" target="A1MxKTXa6I1H9u6osK8T-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-6" value="&lt;div&gt;Letter&lt;/div&gt;&lt;div&gt;from the word&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1MxKTXa6I1H9u6osK8T-8" target="A1MxKTXa6I1H9u6osK8T-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-8" value="&lt;div&gt;Letter not&lt;br&gt;&lt;/div&gt;&lt;div&gt;from the word&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-10" value="right" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="168" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-11" value="wrong" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="168" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1MxKTXa6I1H9u6osK8T-12" target="A1MxKTXa6I1H9u6osK8T-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-12" value="each time a person select a part of the body apear" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-16" value="&lt;div&gt;a person win when all letters are found&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1MxKTXa6I1H9u6osK8T-18" value="&lt;div&gt;5 parts of the body&lt;/div&gt;&lt;div&gt;kills the player&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
