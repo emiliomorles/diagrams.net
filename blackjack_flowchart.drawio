@@ -1,9 +1,232 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T16:09:50.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.2" etag="1-vuqG2cmpaANk7LTM7w" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-17T16:41:36.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="uEEfTcfk_hdhm92iryTj" version="21.7.2" type="github">
   <diagram name="Página-1" id="yOYTYb3JvD6Y8mnainzC">
-    <mxGraphModel>
+    <mxGraphModel dx="3217" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-1" target="y2FXeBzE-2aLiSA5bTY3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-2" target="y2FXeBzE-2aLiSA5bTY3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-2" value="The user and computer should each get 2 random cards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-4" target="y2FXeBzE-2aLiSA5bTY3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-4" value="Add up the user&#39;s and the computer&#39;s scores" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-6" target="y2FXeBzE-2aLiSA5bTY3-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="495" />
+              <mxPoint x="590" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-6" target="y2FXeBzE-2aLiSA5bTY3-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="495" />
+              <mxPoint x="590" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-6" target="y2FXeBzE-2aLiSA5bTY3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-6" value="&lt;div&gt;Does the user pr computer have&lt;/div&gt;&lt;div&gt;blackjack? (ace + 10)&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="450" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-10" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="570" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-11" value="Win" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="760" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-14" value="Lose" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-17" value="User has blackjack" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-18" value="Computer has blackjack" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="555" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-21" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="638" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-22" target="y2FXeBzE-2aLiSA5bTY3-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-22" target="y2FXeBzE-2aLiSA5bTY3-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-22" value="Is user over 21?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="620" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-25" target="y2FXeBzE-2aLiSA5bTY3-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-25" target="y2FXeBzE-2aLiSA5bTY3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-25" value="&lt;div&gt;Ask the user if they want to get&amp;nbsp;&lt;/div&gt;&lt;div&gt;another card&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="790" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-27" target="y2FXeBzE-2aLiSA5bTY3-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1530" y="835" />
+              <mxPoint x="1530" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-27" value="Draw another card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="805" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-29" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="805" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-30" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="730" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-31" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="910" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-33" target="y2FXeBzE-2aLiSA5bTY3-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-33" value="Computer plays, if score is less than 17, keep drawing cards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="970" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-35" target="y2FXeBzE-2aLiSA5bTY3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-35" target="y2FXeBzE-2aLiSA5bTY3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-35" value="Do they have an ace?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="760" y="620" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-37" target="y2FXeBzE-2aLiSA5bTY3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-37" target="y2FXeBzE-2aLiSA5bTY3-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-37" value="&lt;div&gt;If the ace counts as a 1 instead of 11,&amp;nbsp;&lt;/div&gt;&lt;div&gt;are they still over 21?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="620" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-39" value="Lose" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-41" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="550" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-43" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-45" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="550" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-47" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="710" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-49" target="y2FXeBzE-2aLiSA5bTY3-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-49" target="y2FXeBzE-2aLiSA5bTY3-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-49" value="Has computer gone over 21?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1100" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-51" value="Win" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-53" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-54" target="y2FXeBzE-2aLiSA5bTY3-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-54" target="y2FXeBzE-2aLiSA5bTY3-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2FXeBzE-2aLiSA5bTY3-54" target="y2FXeBzE-2aLiSA5bTY3-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-54" value="&lt;div&gt;Compare user score with computer&amp;nbsp;&lt;/div&gt;&lt;div&gt;score to see if user score is higher&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1250" width="310" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-56" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1200" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-57" value="Lose" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-59" value="User score lower" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-60" value="Draw" style="whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-62" value="Same score" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-63" value="Win" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-65" value="User score higher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-66" value="Computer: [3,6]" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-67" value="User: [5,10]" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-68" value="User = 15" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-69" value="Computer = 9" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-70" value="No Blackjacks" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="30" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-71" value="Answer = Yes" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-72" value="User: [5, 10, 3]" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-73" value="Computer: [3, 6]" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-74" value="&lt;div&gt;Computer: [3, 6, 10]&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="970" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-76" value="Computer = 19" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-77" value="User = 18" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2FXeBzE-2aLiSA5bTY3-78" value="Outcome: Computer wins" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
